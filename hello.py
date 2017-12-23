@@ -1,6 +1,6 @@
 import time;
 
-sleep_time = .2 
+sleep_time = 2.2 
 
 print("Helloooooo!")
 time.sleep(sleep_time)
